@@ -1,0 +1,17 @@
+D:\bilgeAdam\PlakDukkaniMaratonGrup1\PlakDukkaniSERVICE\bin\Debug\net6.0\PlakDukkaniSERVICE.deps.json
+D:\bilgeAdam\PlakDukkaniMaratonGrup1\PlakDukkaniSERVICE\bin\Debug\net6.0\PlakDukkaniSERVICE.dll
+D:\bilgeAdam\PlakDukkaniMaratonGrup1\PlakDukkaniSERVICE\bin\Debug\net6.0\PlakDukkaniSERVICE.pdb
+D:\bilgeAdam\PlakDukkaniMaratonGrup1\PlakDukkaniSERVICE\bin\Debug\net6.0\PlakDukkaniDAL.dll
+D:\bilgeAdam\PlakDukkaniMaratonGrup1\PlakDukkaniSERVICE\bin\Debug\net6.0\PlakDukkaniData.dll
+D:\bilgeAdam\PlakDukkaniMaratonGrup1\PlakDukkaniSERVICE\bin\Debug\net6.0\PlakDukkaniDAL.pdb
+D:\bilgeAdam\PlakDukkaniMaratonGrup1\PlakDukkaniSERVICE\bin\Debug\net6.0\PlakDukkaniData.pdb
+D:\bilgeAdam\PlakDukkaniMaratonGrup1\PlakDukkaniSERVICE\obj\Debug\net6.0\PlakDukkaniSERVICE.csproj.AssemblyReference.cache
+D:\bilgeAdam\PlakDukkaniMaratonGrup1\PlakDukkaniSERVICE\obj\Debug\net6.0\PlakDukkaniSERVICE.GeneratedMSBuildEditorConfig.editorconfig
+D:\bilgeAdam\PlakDukkaniMaratonGrup1\PlakDukkaniSERVICE\obj\Debug\net6.0\PlakDukkaniSERVICE.AssemblyInfoInputs.cache
+D:\bilgeAdam\PlakDukkaniMaratonGrup1\PlakDukkaniSERVICE\obj\Debug\net6.0\PlakDukkaniSERVICE.AssemblyInfo.cs
+D:\bilgeAdam\PlakDukkaniMaratonGrup1\PlakDukkaniSERVICE\obj\Debug\net6.0\PlakDukkaniSERVICE.csproj.CoreCompileInputs.cache
+D:\bilgeAdam\PlakDukkaniMaratonGrup1\PlakDukkaniSERVICE\obj\Debug\net6.0\PlakDukkaniSERVICE.csproj.CopyComplete
+D:\bilgeAdam\PlakDukkaniMaratonGrup1\PlakDukkaniSERVICE\obj\Debug\net6.0\PlakDukkaniSERVICE.dll
+D:\bilgeAdam\PlakDukkaniMaratonGrup1\PlakDukkaniSERVICE\obj\Debug\net6.0\refint\PlakDukkaniSERVICE.dll
+D:\bilgeAdam\PlakDukkaniMaratonGrup1\PlakDukkaniSERVICE\obj\Debug\net6.0\PlakDukkaniSERVICE.pdb
+D:\bilgeAdam\PlakDukkaniMaratonGrup1\PlakDukkaniSERVICE\obj\Debug\net6.0\ref\PlakDukkaniSERVICE.dll

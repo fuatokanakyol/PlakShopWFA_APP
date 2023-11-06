@@ -1,0 +1,12 @@
+D:\bilgeAdam\PlakDukkaniMaratonGrup1\PlakDukkaniData\bin\Debug\net6.0\PlakDukkaniData.deps.json
+D:\bilgeAdam\PlakDukkaniMaratonGrup1\PlakDukkaniData\bin\Debug\net6.0\PlakDukkaniData.dll
+D:\bilgeAdam\PlakDukkaniMaratonGrup1\PlakDukkaniData\bin\Debug\net6.0\PlakDukkaniData.pdb
+D:\bilgeAdam\PlakDukkaniMaratonGrup1\PlakDukkaniData\obj\Debug\net6.0\PlakDukkaniData.csproj.AssemblyReference.cache
+D:\bilgeAdam\PlakDukkaniMaratonGrup1\PlakDukkaniData\obj\Debug\net6.0\PlakDukkaniData.GeneratedMSBuildEditorConfig.editorconfig
+D:\bilgeAdam\PlakDukkaniMaratonGrup1\PlakDukkaniData\obj\Debug\net6.0\PlakDukkaniData.AssemblyInfoInputs.cache
+D:\bilgeAdam\PlakDukkaniMaratonGrup1\PlakDukkaniData\obj\Debug\net6.0\PlakDukkaniData.AssemblyInfo.cs
+D:\bilgeAdam\PlakDukkaniMaratonGrup1\PlakDukkaniData\obj\Debug\net6.0\PlakDukkaniData.csproj.CoreCompileInputs.cache
+D:\bilgeAdam\PlakDukkaniMaratonGrup1\PlakDukkaniData\obj\Debug\net6.0\PlakDukkaniData.dll
+D:\bilgeAdam\PlakDukkaniMaratonGrup1\PlakDukkaniData\obj\Debug\net6.0\refint\PlakDukkaniData.dll
+D:\bilgeAdam\PlakDukkaniMaratonGrup1\PlakDukkaniData\obj\Debug\net6.0\PlakDukkaniData.pdb
+D:\bilgeAdam\PlakDukkaniMaratonGrup1\PlakDukkaniData\obj\Debug\net6.0\ref\PlakDukkaniData.dll
